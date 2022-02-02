@@ -55,7 +55,9 @@ Term deposits are a major source of income for a bank. A term deposit is a cash 
 **y**:has the client subscribed a term deposit? (binary: ‘yes’, ‘no’)
 
 **Confuison matrix*** of the dataset
+
 ![Confusion_matrix](https://github.com/bextla20/Bank_Deposit/blob/main/Confusion_matrix.png)
+
 
 # Conculison
 Gradient Boosting Classifier, AdaBoost Classifier and Random Forest score are more than 0.86.
