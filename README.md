@@ -53,3 +53,15 @@ Term deposits are a major source of income for a bank. A term deposit is a cash 
 ### Target variable :
 
 **y**:has the client subscribed a term deposit? (binary: ‘yes’, ‘no’)
+
+
+# Conculison
+Gradient Boosting Classifier, AdaBoost Classifier and Random Forest score are more than 0.86.
+
+Gradient Boosting Classifier score is 0.875 and with K-Fold is 0.882. While check with hyperparametrs, score is 0.870 and with K-Fold is 0.878. So Gradient Boosting Classifier score with K-Fold is better.
+
+Ada Boosting Classifier score is 0.862 and with K-Fold is 0.870. While check with hyperparametrs, score is 0.869 and with K-Fold is 0.865. So Ada Boosting Classifier score with K-Fold is better.
+
+Random forest score is 0.874 and with K-Fold is 0.876. While check with hyperparametrs, score is 0.879 and with K-Fold is 0.883. So Ada Boosting Classifier score with K-Fold is better.
+
+Compare models Random forest husing hyperparameter tuning got high accuracy than others, we se that accuracy is **0.883**.
